@@ -1,0 +1,134 @@
+{
+    "status": "success",
+    "message": "Menu successfully obtained.",
+    "data": {
+        "items": [
+            {
+                "id": "145ad857-7db6-4341-8245-6304056309c5",
+                "parent_id": "f44adf6f-e859-4dcf-a329-c5c3c1c45e24",
+                "name": "Actividades",
+                "description": "Módulo de actividades",
+                "is_permission": true,
+                "created_date": "2024-07-15T17:11:32.601298",
+                "updated_date": "2024-07-15T17:11:32.601303"
+            },
+            {
+                "id": "30aea42d-3740-4230-ae23-e2662fe8698e",
+                "parent_id": "8dad9570-6106-4eb0-9c1b-73eef6a323ad",
+                "name": "Bitácora",
+                "description": "Módulo de bitácora",
+                "is_permission": true,
+                "created_date": "2024-07-15T17:12:47.940167",
+                "updated_date": "2024-07-15T17:12:47.940171"
+            },
+            {
+                "id": "3a0f5d58-fc83-423a-9504-e27a2409bdf9",
+                "parent_id": "d1d9db05-780e-4d2d-9060-4fc02c195434",
+                "name": "Plantillas de comunicaciones",
+                "description": "Modulo plantilla de comunicaciones",
+                "is_permission": true,
+                "created_date": null,
+                "updated_date": null
+            },
+            {
+                "id": "7c5a03c4-80f9-40c1-860e-65d910e2a0f8",
+                "parent_id": "f44adf6f-e859-4dcf-a329-c5c3c1c45e24",
+                "name": "Instituciones",
+                "description": "Módulo de instituciones",
+                "is_permission": true,
+                "created_date": "2024-07-15T17:11:18.944842",
+                "updated_date": "2024-07-15T17:11:18.944846"
+            },
+            {
+                "id": "840eb20f-f9f5-4c9c-990b-e9077ff71b1f",
+                "parent_id": null,
+                "name": "configuracion",
+                "description": "Configuración",
+                "is_permission": false,
+                "created_date": "2024-06-26T21:00:00",
+                "updated_date": "2024-06-26T21:00:00"
+            },
+            {
+                "id": "8dad9570-6106-4eb0-9c1b-73eef6a323ad",
+                "parent_id": null,
+                "name": "reportes",
+                "description": "Reportes e informes",
+                "is_permission": false,
+                "created_date": "2024-06-26T21:00:00",
+                "updated_date": "2024-06-26T21:00:00"
+            },
+            {
+                "id": "8f0d7161-b3b7-4d43-94f4-8f1d81957a61",
+                "parent_id": "8dad9570-6106-4eb0-9c1b-73eef6a323ad",
+                "name": "Reportes",
+                "description": "Módulo de reportes",
+                "is_permission": true,
+                "created_date": "2024-07-15T17:12:35.081201",
+                "updated_date": "2024-07-15T17:12:35.081205"
+            },
+            {
+                "id": "ad5acb1b-b097-44bc-9664-ddb6658d928f",
+                "parent_id": "f44adf6f-e859-4dcf-a329-c5c3c1c45e24",
+                "name": "Personas",
+                "description": "Módulo de personas",
+                "is_permission": true,
+                "created_date": "2024-07-15T17:11:06.131719",
+                "updated_date": "2024-07-15T17:11:06.131724"
+            },
+            {
+                "id": "c26dbe06-fc10-40ff-9045-ce2b44191eea",
+                "parent_id": "d1d9db05-780e-4d2d-9060-4fc02c195434",
+                "name": "Campañas de envío",
+                "description": "Módulo de campañas de envío",
+                "is_permission": true,
+                "created_date": "2024-07-15T17:16:17.831754",
+                "updated_date": "2024-07-15T17:16:17.831759"
+            },
+            {
+                "id": "c4601d3c-dfcc-4634-bcfc-579d1def7443",
+                "parent_id": "840eb20f-f9f5-4c9c-990b-e9077ff71b1f",
+                "name": "Usuarios",
+                "description": "Modulo Usuarios",
+                "is_permission": true,
+                "created_date": "2024-06-26T21:00:00",
+                "updated_date": "2024-06-26T21:00:00"
+            },
+            {
+                "id": "c4601d3c-dfcc-4634-bcfc-579d1def7478",
+                "parent_id": "8dad9570-6106-4eb0-9c1b-73eef6a323ad",
+                "name": "Informes",
+                "description": "Modulo de informes",
+                "is_permission": true,
+                "created_date": "2024-06-26T21:00:00",
+                "updated_date": "2024-06-26T21:00:00"
+            },
+            {
+                "id": "c673dc9b-6d71-4101-b156-221b7d3a4e8d",
+                "parent_id": "840eb20f-f9f5-4c9c-990b-e9077ff71b1f",
+                "name": "Roles",
+                "description": "Módulo de roles",
+                "is_permission": true,
+                "created_date": "2024-07-15T17:04:58.776269",
+                "updated_date": "2024-07-15T17:04:58.776273"
+            },
+            {
+                "id": "d1d9db05-780e-4d2d-9060-4fc02c195434",
+                "parent_id": null,
+                "name": "comunicacion",
+                "description": "Comunicación",
+                "is_permission": false,
+                "created_date": "2024-06-26T21:00:00",
+                "updated_date": "2024-06-26T21:00:00"
+            },
+            {
+                "id": "f44adf6f-e859-4dcf-a329-c5c3c1c45e24",
+                "parent_id": null,
+                "name": "Gestión capacitaciones",
+                "description": "Gestión capacitaciones",
+                "is_permission": false,
+                "created_date": null,
+                "updated_date": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0a58344d-71f3-4ddc-8235-3931bc200b5e",
+  "dynamic_fields": {
+    "rut": 39017396,
+    "run": 123456789,
+    "institution_type": "Universidad",
+    "profile": "MIUAF"
+  },
+  "name": "Lautaro",
+  "last_name": "Martin",
+  "sector": 5,
+  "email": "lautamartin1995@gmail.com",
+  "charge": 1,
+  "institution": 1,
+  "phone_number": 2147483647,
+  "created_date": null,
+  "updated_date": null
+}

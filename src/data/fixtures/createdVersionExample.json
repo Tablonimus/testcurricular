@@ -1,0 +1,22 @@
+{
+  "id": "63bbc2cb-1b0b-41f0-9cf2-cc63284a5c76",
+  "code": "V2024-001",
+  "program_id": "8f4c0a47-9a8e-4c73-aa11-1d6b06c3b5c1",
+  "inscription_start_date": "2024-07-01T09:00:00Z",
+  "inscription_end_date": "2024-07-15T18:00:00Z",
+  "course_start_date": "2024-08-01T09:00:00Z",
+  "course_end_date": "2024-11-30T18:00:00Z",
+  "state_id": "ce916b30-22a4-4e6a-9873-6c2320c7db22",
+  "participant_type_id": "8a1257d9-31e7-45a6-b746-6e6a688a1f85",
+  "admit": true,
+  "learning_modality": "7e3b65a6-232f-4884-9274-6f50de5e0015",
+  "synchronic_hour": 60,
+  "apply_synchronic_hour": true,
+  "impartation_place": "28bf0dfb-d7b7-4e3e-bd25-57cb443a1e35",
+  "activity_id": "07ab191c-59a0-4caa-904b-12a54b57e58b",
+  "chronological_hours": 120,
+  "evaluation_type": "4e8c38d1-6e4a-4d4a-9b25-73d3d2761228",
+  "qualification_type": "d8b4b0d2-92b4-4fb4-98b8-0c33e4a3d22e",
+  "institution_id": "492fa561-c119-4936-9131-7d796301b6da",
+  "no_evaluation": false
+}

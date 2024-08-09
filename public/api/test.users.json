@@ -1,0 +1,51 @@
+[
+  {
+    "user": "oviedo@gmail.com",
+    "password": "123456",
+    "status": 200,
+    "token": "4564-465-465-5643",
+    "refresh_token": "refresh1234"
+  },
+  {
+    "status": 200,
+    "user": "escalante@gmail.com",
+    "password": "123456",
+    "token": "4564-465-465-5643",
+    "refresh_token": "refresh1234"
+  },
+  {
+    "status": 200,
+    "user": "martin@gmail.com",
+    "password": "123456",
+    "token": "4564-465-465-5643",
+    "refresh_token": "refresh1234"
+  },
+  {
+    "status": 200,
+    "user": "hector@gmail.com",
+    "password": "123456",
+    "token": "4564-465-465-5643",
+    "refresh_token": "refresh1234"
+  },
+  {
+    "status": 200,
+    "user": "marcos@gmail.com",
+    "password": "123456",
+    "token": "4564-465-465-5643",
+    "refresh_token": "refresh1234"
+  },
+  {
+    "status": 200,
+    "user": "admin@gmail.com",
+    "password": "123456",
+    "token": "4564-465-465-5643",
+    "refresh_token": "refresh1234"
+  },
+  {
+    "status": 500,
+    "user": "error@gmail.com",
+    "password": "error",
+    "token": "4564-465-465-5643",
+    "refresh_token": "refresh1234"
+  }
+]

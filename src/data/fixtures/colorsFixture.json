@@ -1,0 +1,74 @@
+[
+  {
+    "name": "--primary",
+    "hex": "#f26522",
+    "display_name": "Color primario",
+    "category": "General"
+  },
+  {
+    "name": "--secondary",
+    "hex": "#ebac13",
+    "display_name": "Color secundario",
+    "category": "General"
+  },
+  {
+    "name": "--tertiary",
+    "hex": "#4d4d4f",
+    "display_name": "Color terciario",
+    "category": "General"
+  },
+  {
+    "name": "--gray",
+    "hex": "#BDBDBD",
+    "category": "General",
+    "display_name": "Gris"
+  },
+  {
+    "name": "--sidebar-background",
+    "hex": "#4d4d4f",
+    "display_name": "Fondo",
+    "category": "Sidebar"
+  },
+  {
+    "name": "--sidebar__text--active",
+    "hex": "#f26522",
+    "display_name": "Texto Activo",
+    "category": "Sidebar"
+  },
+  {
+    "name": "--sidebar__text--disabled",
+    "hex": "#f2f2f2",
+    "display_name": "Texto Inactivo",
+    "category": "Sidebar"
+  },
+  {
+    "name": "--sidebar__selector--active",
+    "hex": "#828282",
+    "display_name": "Selector activo",
+    "category": "Sidebar"
+  },
+  {
+    "name": "--submenu__selector--active",
+    "hex": "#ebac13",
+    "display_name": "Selector activo",
+    "category": "Submenu"
+  },
+  {
+    "name": "--submenu-background",
+    "hex": "#e6e6e6",
+    "display_name": "Fondo",
+    "category": "Submenu"
+  },
+  {
+    "name": "--submenu__text--active",
+    "hex": "#ffffff",
+    "display_name": "Texto activo",
+    "category": "Submenu"
+  },
+  {
+    "name": "--submenu__text--disabled",
+    "hex": "#2a2a2a",
+    "display_name": "Texto inactivo",
+    "category": "Submenu"
+  }
+]

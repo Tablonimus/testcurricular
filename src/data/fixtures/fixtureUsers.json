@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "message": "Success",
+  "data": {
+    "items": [
+      {
+        "id": "24d45f9b-ccc7-4ff8-a273-4ccd55b513a8",
+        "username": "admin",
+        "email": "admin@cunix.net",
+        "is_active": true,
+        "roles": [
+          {
+            "id": "ba6f7097-9aa3-467b-963e-a8aa8724d4a9",
+            "name": "Administrador",
+            "description": "Administrador con todos los permisos",
+            "permissions": {
+              "c4601d3c-dfcc-4634-bcfc-579d1def7443": 2,
+              "c673dc9b-6d71-4101-b156-221b7d3a4e8d": 2,
+              "30aea42d-3740-4230-ae23-e2662fe8698e": 2,
+              "8f0d7161-b3b7-4d43-94f4-8f1d81957a61": 2,
+              "c4601d3c-dfcc-4634-bcfc-579d1def7478": 2,
+              "3a0f5d58-fc83-423a-9504-e27a2409bdf9": 2,
+              "c26dbe06-fc10-40ff-9045-ce2b44191eea": 2,
+              "145ad857-7db6-4341-8245-6304056309c5": 2,
+              "7c5a03c4-80f9-40c1-860e-65d910e2a0f8": 2,
+              "ad5acb1b-b097-44bc-9664-ddb6658d928f": 2
+            },
+            "created_date": null,
+            "updated_date": null
+          }
+        ]
+      },
+      {
+        "id": "2e787677-dd86-4097-bf5f-6dab275987c4",
+        "username": "ciriarte",
+        "email": "ciriarte@uaf.gov.cl",
+        "is_active": true,
+        "roles": [
+          {
+            "id": "ba6f7097-9aa3-467b-963e-a8aa8724d4a9",
+            "name": "Administrador",
+            "description": "Administrador con todos los permisos",
+            "permissions": {
+              "c4601d3c-dfcc-4634-bcfc-579d1def7443": 2,
+              "c673dc9b-6d71-4101-b156-221b7d3a4e8d": 2,
+              "30aea42d-3740-4230-ae23-e2662fe8698e": 2,
+              "8f0d7161-b3b7-4d43-94f4-8f1d81957a61": 2,
+              "c4601d3c-dfcc-4634-bcfc-579d1def7478": 2,
+              "3a0f5d58-fc83-423a-9504-e27a2409bdf9": 2,
+              "c26dbe06-fc10-40ff-9045-ce2b44191eea": 2,
+              "145ad857-7db6-4341-8245-6304056309c5": 2,
+              "7c5a03c4-80f9-40c1-860e-65d910e2a0f8": 2,
+              "ad5acb1b-b097-44bc-9664-ddb6658d928f": 2
+            },
+            "created_date": null,
+            "updated_date": null
+          }
+        ]
+      }
+    ]
+  }
+}
